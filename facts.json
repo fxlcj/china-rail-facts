@@ -7,7 +7,7 @@
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 41,
+  "count": 40,
   "facts": [
     {
       "id": 1,
@@ -597,27 +597,11 @@
     {
       "id": 40,
       "topic": "rail_rule",
-      "claim_en": "The National Railway Administrationput China's high-speed operating mileage at 48,000 km at the end of 2024, more than 70% of the world total.",
+      "claim_en": "The National Railway Administration put China's high-speed operating mileage at 48,000 km at the end of 2024, more than 70% of the world total.",
       "claim_zh": "",
       "value": "48,000 km",
       "unit": "",
       "figure": "48,000 km",
-      "source": {
-        "name": "www.nra.gov.cn",
-        "url": "https://www.nra.gov.cn/tlfc/tpsy/202510/t20251030_349897.shtml"
-      },
-      "checked_on": "2026-11-10",
-      "recheck_by": "2027-02-08",
-      "added_from": "article-sync"
-    },
-    {
-      "id": 41,
-      "topic": "rail_rule",
-      "claim_en": "The National Railway Administrationreported 162,000 km of railway in operation at the end of 2024, of which 48,000 km is high-speed — more than 70% of the world's high-speed mileage.",
-      "claim_zh": "",
-      "value": "162,000 km",
-      "unit": "",
-      "figure": "162,000 km",
       "source": {
         "name": "www.nra.gov.cn",
         "url": "https://www.nra.gov.cn/tlfc/tpsy/202510/t20251030_349897.shtml"

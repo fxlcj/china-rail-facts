@@ -4,7 +4,7 @@ A reference for the China railway rules that foreign travelers most often get wr
 
 Every figure below carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 41 entries, machine-readable
+- `facts.json` — the same 40 entries, machine-readable
 - The human-readable version, with worked examples: <https://jiunotes.top/china-train-rules-fees-cheatsheet>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -61,8 +61,7 @@ The rules themselves are not secret — China Railway and the government portals
 | 20 | `refund` | Refund timing: cancel before departure online; tickets changed after departure and points-exchange tickets are NOT refundable; cash purchases refunded at station window within 180 days after online cancellation | 180 days (cash refund window) | [中国铁路12306官网](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/orderWarmTips.html) | 2026-11-05 |
 | 5 | `student` | Students get 4 discounted one-way trips per academic year (Oct 1 - Sep 30); 50% conventional hard seat, 75% EMU 2nd class | 4 trips/academic year | [中国铁路12306官网](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html) | 2026-11-05 |
 | 18 | `waitlist` | Waitlist (候补) purchase: each user can submit 2 waitlist orders, each with 2 adjacent dates and up to 5 train/class combos, up to 9 passengers per order; deadline no later than 2 hours before departure | 2 orders; 9 passengers | [中国铁路12306官网](https://www.12306.cn/) | 2026-11-05 |
-| 40 | `rail_rule` | The National Railway Administrationput China's high-speed operating mileage at 48,000 km at the end of 2024, more than 70% of the world total. | 48,000 km | [www.nra.gov.cn](https://www.nra.gov.cn/tlfc/tpsy/202510/t20251030_349897.shtml) | 2026-11-10 |
-| 41 | `rail_rule` | The National Railway Administrationreported 162,000 km of railway in operation at the end of 2024, of which 48,000 km is high-speed — more than 70% of the world's high-speed mileage. | 162,000 km | [www.nra.gov.cn](https://www.nra.gov.cn/tlfc/tpsy/202510/t20251030_349897.shtml) | 2026-11-10 |
+| 40 | `rail_rule` | The National Railway Administration put China's high-speed operating mileage at 48,000 km at the end of 2024, more than 70% of the world total. | 48,000 km | [www.nra.gov.cn](https://www.nra.gov.cn/tlfc/tpsy/202510/t20251030_349897.shtml) | 2026-11-10 |
 ## Notes on the trickier rules
 
 ### Ticket release window and purchase channels

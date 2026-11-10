@@ -5,6 +5,10 @@ A figure never changes without its `checked_on` date changing with it.
 
 ## 2026-11-10 — incremental sync from published articles
 
+- 1 entries added from official-source sentences in newly published articles; 1 candidates skipped (unreachable/non-official/duplicate source).
+
+## 2026-11-10 — incremental sync from published articles
+
 - 2 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).
 
 ## 2026-11-10 — quality revert
