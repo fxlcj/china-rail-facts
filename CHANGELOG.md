@@ -5,11 +5,7 @@ A figure never changes without its `checked_on` date changing with it.
 
 ## 2026-11-10 — incremental sync from published articles
 
-- 1 entry added from an official-source sentence in a newly published article (National Railway Administration, nra.gov.cn); 1 duplicate candidate skipped. An earlier same-day run (22 entries) was reverted the same day: its filters admitted internal links, affiliate links and fragments; sync was re-enabled only after filters were tightened to official-source deep links only.
-
-## 2026-11-10 — incremental sync from published articles
-
-- 2 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).
+- 1 entry added from an official-source sentence in a newly published article (National Railway Administration, nra.gov.cn); 1 duplicate candidate skipped. An earlier same-day run (22 entries) was reverted the same day: its filters admitted internal links, affiliate links and fragments; sync was re-enabled only after filters were tightened to official-source-deep-links-only.
 
 ## 2026-11-10 — quality revert
 
