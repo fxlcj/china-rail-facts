@@ -3,6 +3,10 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-10 — quality revert
+
+- The first automated sync run (22 entries) was reverted: internal-link, affiliate and fragment sentences passed filters that were too loose. Dataset returned to the 39 hand-verified entries pending a stricter sync pass.
+
 ## 2026-11-10 — incremental sync from published articles
 
 - 22 entries added automatically from official-source sentences in newly published articles; 0 candidates skipped (unreachable or non-deep official source, or duplicate of an existing entry).
