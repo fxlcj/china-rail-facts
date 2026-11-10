@@ -1,0 +1,598 @@
+{
+  "dataset": "China Railway Rules & Fees",
+  "publisher": "Jiu's Sharing Station (jiunotes.top)",
+  "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
+  "version": "2026.11",
+  "updated": "2026-11-08",
+  "license": "CC BY 4.0",
+  "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
+  "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
+  "count": 39,
+  "facts": [
+    {
+      "id": 1,
+      "topic": "booking",
+      "claim_en": "China train tickets go on sale 15 days in advance (including the day of sale)",
+      "claim_zh": "中国火车票预售期为15天（含当天）",
+      "value": "15",
+      "unit": "days (incl. sale day)",
+      "figure": "15 days (incl. sale day)",
+      "source": {
+        "name": "新华网（转中国铁路官方）",
+        "url": "https://app.xinhuanet.com/news/article.html?articleId=a3001a1b-3e3a-4536-9eca-b8a04484cc0c"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 2,
+      "topic": "booking",
+      "claim_en": "Guangzhou-Shenzhen-Hong Kong cross-border high-speed rail tickets: 15-day advance sale (incl. sale day)",
+      "claim_zh": "广深港跨境高铁车票预售期为15天（含当天）",
+      "value": "15",
+      "unit": "days (incl. sale day)",
+      "figure": "15 days (incl. sale day)",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/gsggp.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 19,
+      "topic": "booking",
+      "claim_en": "Official purchase channels: 12306 website/App is the ONLY official channel; also station windows, ticket machines, phone booking and authorized agents",
+      "claim_zh": "购票渠道：12306网站（含铁路12306移动端）是唯一官方网站；另有车站窗口、自动售票机、订票电话和代售点",
+      "value": "12306 only official",
+      "unit": "purchase channels",
+      "figure": "12306 is the only official channel",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-05-05"
+    },
+    {
+      "id": 11,
+      "topic": "change",
+      "claim_en": "Each ticket can be changed ONCE (including changing the destination station) when capacity allows",
+      "claim_zh": "每张车票在有运输能力的前提下可办理1次改签（含变更到站）",
+      "value": "1",
+      "unit": "change per ticket",
+      "figure": "1 change per ticket",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 12,
+      "topic": "change",
+      "claim_en": "Change fee: FREE 48h+ before departure or changing to same/earlier train; 5% for 24-48h to a later date; 15% under 24h to a later date; 40% after departure to next day or later",
+      "claim_zh": "改签费：开车前48小时以上改签或改签当日及以前列车免收；开车前24-48小时改签之后日期按5%；不足24小时按15%；开车后当日改签次日及以后按40%",
+      "value": "40",
+      "unit": "% max",
+      "figure": "40% maximum",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 3,
+      "topic": "child",
+      "claim_en": "Children under 6 ride free (one per adult, no seat); ages 6-13 get child discount fare; ages 14+ pay full fare",
+      "claim_zh": "未满6周岁免费乘车（每名成人限1名不占席）；6-13周岁购儿童优惠票；年满14周岁购全价票",
+      "value": "6-13",
+      "unit": "years old (child fare)",
+      "figure": "6-13 years old (child fare)",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-05-05"
+    },
+    {
+      "id": 4,
+      "topic": "child",
+      "claim_en": "Child discount fare: 50% of full fare on conventional trains and EMU 2nd/1st class; 70% on EMU sleeper",
+      "claim_zh": "儿童优惠票：普速列车及动车二等/一等座按全价50%计；动车卧铺按全价70%计",
+      "value": "50",
+      "unit": "% of full fare (EMU sleeper 70%)",
+      "figure": "50% of full fare (70% for EMU sleeper)",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 16,
+      "topic": "id",
+      "claim_en": "Cross-border ticket ID types: Chinese resident ID, Mainland Travel Permit / residence permits for HK/Macao/Taiwan residents, foreign permanent residence ID, valid passports, temporary ID",
+      "claim_zh": "跨境购票可用证件：居民身份证、港澳台居民居住证、港澳居民来往内地通行证、台湾居民来往大陆通行证、外国人永久居留身份证、有效护照及临时身份证明",
+      "value": "passport + resident ID + HMT permits",
+      "unit": "valid ID types",
+      "figure": "5 document types accepted",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/gsggp.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-05-05"
+    },
+    {
+      "id": 17,
+      "topic": "id",
+      "claim_en": "The 12306 English website accepts ONLY valid foreign passports for ticket purchase",
+      "claim_zh": "12306英文网站仅接受有效外国护照购票",
+      "value": "foreign passport only",
+      "unit": "on English site",
+      "figure": "foreign passports only",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://www.12306.cn/"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 13,
+      "topic": "luggage",
+      "claim_en": "Free checked/hand luggage weight: 20 kg per adult, 10 kg per child, 35 kg for diplomatic personnel",
+      "claim_zh": "免费携带品重量：其他旅客20千克、儿童10千克、外交人员35千克",
+      "value": "20",
+      "unit": "kg (adult)",
+      "figure": "20 kg (adult)",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/luggage.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-05-05"
+    },
+    {
+      "id": 14,
+      "topic": "luggage",
+      "claim_en": "Carry-on size: sum of length+width+height up to 160 cm on conventional trains, 130 cm on EMU; rod-shaped items up to 200 cm; each piece up to 20 kg",
+      "claim_zh": "携带品尺寸：长宽高之和不超过160厘米（动车组130厘米），杆状物品不超过200厘米，每件重量不超过20千克",
+      "value": "160",
+      "unit": "cm (EMU 130 cm)",
+      "figure": "160 cm (EMU 130 cm)",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/luggage.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-05-05"
+    },
+    {
+      "id": 15,
+      "topic": "luggage",
+      "claim_en": "Restricted carry-on: cigarettes up to 50 cartons; liquor with 24%-70% alcohol up to 3000 ml; live animals prohibited (guide dogs and sealed aquatic food excepted)",
+      "claim_zh": "限量携带品：香烟最多50条；酒精含量24%-70%的白酒不超过3000毫升；活动物禁带（导盲犬和封闭包装水产除外）",
+      "value": "3000",
+      "unit": "ml liquor; 50 cartons cigarettes",
+      "figure": "3000 ml liquor; 50 cartons of cigarettes",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/luggage.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-05-05"
+    },
+    {
+      "id": 21,
+      "topic": "price",
+      "claim_en": "Beijing-Shanghai HSR published (list) fares rose 20% from 26 May 2026 for 300-350 km/h and 200-250 km/h EMU trains; execution fares capped by published fare with variable discounts",
+      "claim_zh": "京沪高铁公布票价自2026年5月26日起上浮20%（时速300~350公里及200~250公里及以下动车组）；执行票价以公布票价为上限、按不同幅度折扣浮动",
+      "value": "20",
+      "unit": "% published-fare increase",
+      "figure": "20% published-fare increase",
+      "source": {
+        "name": "京沪高速铁路股份有限公司（上交所公告）",
+        "url": "https://static.sse.com.cn/disclosure/listedinfo/announcement/c/new/2026-05-12/601816_20260512_ON0P.pdf"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-02-06"
+    },
+    {
+      "id": 22,
+      "topic": "price",
+      "claim_en": "Beijing-Shanghai HSR full-route 2nd class published-fare cap about 820 CNY (from 26 May 2026); actual execution fares roughly 576-672 CNY depending on train and time",
+      "claim_zh": "京沪高铁全程二等座公布票价上限约820元（2026年5月26日起）；实际执行票价约576~672元（因车次、时段不同浮动）",
+      "value": "576-672",
+      "unit": "CNY 2nd class execution fare (cap ~820)",
+      "figure": "576-672 CNY 2nd class execution fare (cap ~820)",
+      "source": {
+        "name": "中国新闻周刊（京沪高铁公司公告核实）",
+        "url": "https://www.inewsweek.cn/finance/2026-05-20/30254.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-02-06"
+    },
+    {
+      "id": 23,
+      "topic": "rail_newline",
+      "claim_en": "Hangzhou-Quzhou high-speed rail opened",
+      "claim_zh": "杭衢高铁开通",
+      "value": "2025-12-26",
+      "unit": "date",
+      "figure": "2025-12-26",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 24,
+      "topic": "rail_newline",
+      "claim_en": "Hangzhou-Quzhou HSR line length",
+      "claim_zh": "杭衢高铁线路全长",
+      "value": "131",
+      "unit": "km",
+      "figure": "131 km",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 25,
+      "topic": "rail_newline",
+      "claim_en": "Hangzhou-Quzhou HSR design speed",
+      "claim_zh": "杭衢高铁设计时速",
+      "value": "350",
+      "unit": "km/h",
+      "figure": "350 km/h",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 26,
+      "topic": "rail_newline",
+      "claim_en": "Hangzhou-Quzhou HSR stations",
+      "claim_zh": "杭衢高铁车站",
+      "value": "JianDe, JianDe South, Longyou North, Quzhou West, Jiangshan (5)",
+      "unit": "stations",
+      "figure": "JianDe, JianDe South, Longyou North, Quzhou West, Jiangshan (5) stations",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 27,
+      "topic": "rail_newline",
+      "claim_en": "Hangzhou West-Quzhou West fastest HSR time",
+      "claim_zh": "杭州西-衢州西最快用时",
+      "value": "73",
+      "unit": "minutes",
+      "figure": "73 minutes",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 28,
+      "topic": "rail_newline",
+      "claim_en": "Hangzhou-Quzhou HSR daily trains initial",
+      "claim_zh": "杭衢高铁初期日开行列车",
+      "value": "12",
+      "unit": "trains/day",
+      "figure": "12 trains/day",
+      "source": {
+        "name": "新华社 (news.cn)",
+        "url": "https://www.news.cn/20251226/a9d150b87e3a4fe89b34e61673be8d03/c.html"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 29,
+      "topic": "rail_newline",
+      "claim_en": "Xi'an-Yan'an high-speed rail opened (Shaanxi first, old revolutionary region)",
+      "claim_zh": "西延高铁开通（陕西首条革命老区高铁）",
+      "value": "2025-12-26",
+      "unit": "date",
+      "figure": "2025-12-26",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 30,
+      "topic": "rail_newline",
+      "claim_en": "Xi'an-Yan'an HSR connects cities and counties",
+      "claim_zh": "西延高铁串联市县",
+      "value": "Xi'an, Weinan, Tongchuan, Yan'an (4 cities, 19 counties)",
+      "unit": "cities/counties",
+      "figure": "4 cities, 19 counties",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 31,
+      "topic": "rail_newline",
+      "claim_en": "Wuhan-Yichang HSR section (Shanghai-Chengdu corridor) opened",
+      "claim_zh": "沪渝蓉沿江高铁武汉至宜昌段开通",
+      "value": "2025-12-26",
+      "unit": "date",
+      "figure": "2025-12-26",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 32,
+      "topic": "rail_newline",
+      "claim_en": "Wuhan-Yichang HSR section length",
+      "claim_zh": "武宜段全长",
+      "value": "314",
+      "unit": "km",
+      "figure": "314 km",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 33,
+      "topic": "rail_newline",
+      "claim_en": "Wuhan-Yichang HSR design speed",
+      "claim_zh": "武宜段设计时速",
+      "value": "350",
+      "unit": "km/h",
+      "figure": "350 km/h",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 34,
+      "topic": "rail_newline",
+      "claim_en": "Xi'an-Yan'an HSR line length",
+      "claim_zh": "西延高铁线路全长",
+      "value": "299",
+      "unit": "km",
+      "figure": "299 km",
+      "source": {
+        "name": "中国国家铁路集团 (china-railway.com.cn)",
+        "url": "http://www.china-railway.com.cn/xwzx/zhxw/202512/t20251229_151125.html"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 35,
+      "topic": "rail_newline",
+      "claim_en": "Xi'an-Yan'an HSR design speed",
+      "claim_zh": "西延高铁设计时速",
+      "value": "350",
+      "unit": "km/h",
+      "figure": "350 km/h",
+      "source": {
+        "name": "中国国家铁路集团 (china-railway.com.cn)",
+        "url": "http://www.china-railway.com.cn/xwzx/zhxw/202512/t20251229_151125.html"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 36,
+      "topic": "rail_newline",
+      "claim_en": "Xi'an North-Yan'an fastest HSR time",
+      "claim_zh": "西安北-延安最快用时",
+      "value": "68",
+      "unit": "minutes",
+      "figure": "68 minutes",
+      "source": {
+        "name": "中国政府网 (gov.cn)",
+        "url": "https://www.gov.cn/yaowen/liebiao/202512/content_7052877.htm"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 37,
+      "topic": "rail_newline",
+      "claim_en": "Xi'an-Yan'an HSR stations opened",
+      "claim_zh": "西延高铁开通车站",
+      "value": "Gaoling, Fuping South, Tongchuan, Tongchuan North, Yijun, Huangling, Luochuan, Fuxian North, Ganquan North, Yan'an (10)",
+      "unit": "stations",
+      "figure": "Gaoling, Fuping South, Tongchuan, Tongchuan North, Yijun, Huangling, Luochuan, Fuxian North, Ganquan North, Yan'an (10) stations",
+      "source": {
+        "name": "中国国家铁路集团 (china-railway.com.cn)",
+        "url": "http://www.china-railway.com.cn/xwzx/zhxw/202512/t20251229_151125.html"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 38,
+      "topic": "rail_newline",
+      "claim_en": "Xi'an-Yan'an HSR daily trains initial",
+      "claim_zh": "西延高铁初期日开行列车",
+      "value": "38",
+      "unit": "trains/day",
+      "figure": "38 trains/day",
+      "source": {
+        "name": "中国政府网 (gov.cn)",
+        "url": "https://www.gov.cn/yaowen/liebiao/202512/content_7052877.htm"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 39,
+      "topic": "rail_newline",
+      "claim_en": "Part of the Shanghai–Chengdu HSR corridor; links into the Wuhan hub and interchanges at Jingmen West with the Xiangyang–Jingmen and Jingmen–Jingzhou lines",
+      "claim_zh": "武宜段通道与互联互通",
+      "value": "Part of the Shanghai-Chengdu HSR corridor; links to Wuhan hub and interchanges at Jingmen West with the Xiangyang-Jingmen and Jingmen-Jingzhou HSRs; forms a Wuhan-Yichang dual channel with the existing Huhanrong HSR",
+      "unit": "description",
+      "figure": "Part of the Shanghai-Chengdu HSR corridor; links to Wuhan hub and interchanges at Jingmen West with the Xiangyang-Jingmen and Jingmen-Jingzhou HSRs; forms a Wuhan-Yichang dual channel with the existing Huhanrong HSR description",
+      "source": {
+        "name": "中国国家铁路局 (nra.gov.cn)",
+        "url": "https://www.nra.gov.cn/xwzx/tpsp/tpxx/202512/t20251226_350315.shtml"
+      },
+      "checked_on": "2026-11-08",
+      "recheck_by": "2027-11-08"
+    },
+    {
+      "id": 6,
+      "topic": "refund",
+      "claim_en": "Refund fee: FREE when cancelling 8+ days before departure",
+      "claim_zh": "退票费：开车前8天以上退票不收取退票费",
+      "value": "0",
+      "unit": "%",
+      "figure": "0%",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 7,
+      "topic": "refund",
+      "claim_en": "Refund fee: 5% when cancelling 48 hours to 8 days before departure",
+      "claim_zh": "退票费：开车前48小时至8天退票按票面价格5%计",
+      "value": "5",
+      "unit": "%",
+      "figure": "5%",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 8,
+      "topic": "refund",
+      "claim_en": "Refund fee: 10% when cancelling 24-48 hours before departure",
+      "claim_zh": "退票费：开车前24小时至48小时退票按票面价格10%计",
+      "value": "10",
+      "unit": "%",
+      "figure": "10%",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 9,
+      "topic": "refund",
+      "claim_en": "Refund fee: 20% when cancelling less than 24 hours before departure",
+      "claim_zh": "退票费：开车前不足24小时退票按票面价格20%计",
+      "value": "20",
+      "unit": "%",
+      "figure": "20%",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 10,
+      "topic": "refund",
+      "claim_en": "Refund fee rounded to nearest 0.5 yuan, minimum 2 yuan (less than 2 yuan charged at ticket price)",
+      "claim_zh": "退票费以5角为单位计算，最低按2元计收（票价不足2元时按票价计收）",
+      "value": "2",
+      "unit": "CNY minimum",
+      "figure": "2 CNY minimum",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 20,
+      "topic": "refund",
+      "claim_en": "Refund timing: cancel before departure online; tickets changed after departure and points-exchange tickets are NOT refundable; cash purchases refunded at station window within 180 days after online cancellation",
+      "claim_zh": "退票时限：开车前可网上退票；开车后改签的车票和积分兑换车票不办理退票；现金购票线上退票后180日内到车站窗口退款",
+      "value": "180",
+      "unit": "days (cash refund window)",
+      "figure": "180 days (cash refund window)",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/orderWarmTips.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 5,
+      "topic": "student",
+      "claim_en": "Students get 4 discounted one-way trips per academic year (Oct 1 - Sep 30); 50% conventional hard seat, 75% EMU 2nd class",
+      "claim_zh": "学生优惠票：每学年（10月1日至次年9月30日）可购4次单程；普速硬座50%、动车二等座75%",
+      "value": "4",
+      "unit": "trips/academic year",
+      "figure": "4 trips/academic year",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 18,
+      "topic": "waitlist",
+      "claim_en": "Waitlist (候补) purchase: each user can submit 2 waitlist orders, each with 2 adjacent dates and up to 5 train/class combos, up to 9 passengers per order; deadline no later than 2 hours before departure",
+      "claim_zh": "候补购票：每位用户可提交2个候补订单，每个订单含2个相邻日期、5个车次席别组合，最多9名乘车人；截止时间不晚于开车前2小时",
+      "value": "2",
+      "unit": "orders; 9 passengers",
+      "figure": "2 orders; 9 passengers",
+      "source": {
+        "name": "中国铁路12306官网",
+        "url": "https://www.12306.cn/"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2027-02-05"
+    }
+  ]
+}
