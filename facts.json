@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "version": "2026.11",
-  "updated": "2026-11-08",
+  "updated": "2026-11-10",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 39,
+  "count": 61,
   "facts": [
     {
       "id": 1,
@@ -593,6 +593,358 @@
       },
       "checked_on": "2026-11-05",
       "recheck_by": "2027-02-05"
+    },
+    {
+      "id": 40,
+      "topic": "booking",
+      "claim_en": "The booking rules that may decide it for you Everything runs through 12306, and everything is real-name: your passport is your ticket.",
+      "claim_zh": "",
+      "value": "12306,",
+      "unit": "",
+      "figure": "12306,",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/high-speed-rail-ticket-steps"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 41,
+      "topic": "rail_rule",
+      "claim_en": "The National Railway Administrationput China's high-speed operating mileage at 48,000 km at the end of 2024, more than 70% of the world total.",
+      "claim_zh": "",
+      "value": "48,000 km",
+      "unit": "",
+      "figure": "48,000 km",
+      "source": {
+        "name": "www.nra.gov.cn",
+        "url": "https://www.nra.gov.cn/tlfc/tpsy/202510/t20251030_349897.shtml"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 42,
+      "topic": "rail_rule",
+      "claim_en": "Where this fits: highway or high-speed rail Under about 800 kilometres I would take the train and skip all of this — the rail comparison in bullet train or sleeper traincovers why.",
+      "claim_zh": "",
+      "value": "800",
+      "unit": "",
+      "figure": "800",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/bullet-vs-sleeper-train"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 43,
+      "topic": "price",
+      "claim_en": "Pin itPlan the rest of the trip: all travel and rail guides ⟨/en/travel/⟩ — every rule and fare cited to its official.",
+      "claim_zh": "",
+      "value": "",
+      "unit": "",
+      "figure": "see source",
+      "source": {
+        "name": "www.pinterest.com",
+        "url": "https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fjiunotes.top%2Fen%2Farticles%2Fchina-metro-faq.html&media=https%3A%2F%2Fjiunotes.top%2Fimages%2Fchina-metro-faq-a1.jpg&description=Security%20checks%2C%20%C2%A52-3%20fares%2C%20transfers%2C%20last%20trains%2C%20luggage%20rules%20and%20riding%20the%20wrong%20way%20%E2%80%94%208%20metro%20questions%2C%20answered%20from%20three%20cities."
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 44,
+      "topic": "luggage",
+      "claim_en": "Here is the number that trips almost everyone up, and it is in the official rule, not a blog: on a Chinese bullet train, your luggage is not measured by its inch size at all — it is measured by adding its three outer sides together, and on a D or G train that sum must not exceed 130 cm.",
+      "claim_zh": "",
+      "value": "130 cm",
+      "unit": "",
+      "figure": "130 cm",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/bullet-vs-sleeper-train"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 45,
+      "topic": "rail_rule",
+      "claim_en": "Here is the piece of the China trainsystem most English guides still treat as a rumour: on a modern 复兴号 or CRH bullet train, one whole second-class carriage is designated 静音车厢 — a \"silent carriage\" — and it is marked in the 12306 ⟨https://www.12306.cn/⟩ app with a single yellow character, 静.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/china-train-luggage-rules"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 46,
+      "topic": "booking",
+      "claim_en": "Booking it in 12306: the one extra checkbox Search for a train in the 12306 app.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/how-to-buy-china-train-tickets-on-12306-step-by-step"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 47,
+      "topic": "refund",
+      "claim_en": "China Railway 12306 — refund and change rules page (fee tiers by hours before departure): kyfw.12306.cn/otn/gonggao/endorseAndRefund.htmlChina Railway 12306 — official site, ticket and ID rules: 12306.cn ⟨https://www.12306.cn/⟩.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "kyfw.12306.cn",
+        "url": "https://kyfw.12306.cn/otn/gonggao/endorseAndRefund.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 48,
+      "topic": "booking",
+      "claim_en": "The critical number is the pre-sale window: as a rule, tickets on 12306, the national rail booking platform, go on sale 15 days before departure, released station by station at a fixed minute of the day rather than all at once.",
+      "claim_zh": "",
+      "value": "12306,",
+      "unit": "",
+      "figure": "12306,",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/high-speed-rail-ticket-steps"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 49,
+      "topic": "refund",
+      "claim_en": "The China Railway 12306 refund policycharges nothing at all if you cancel more than 8 days before departure, 5% of the ticket price between 48 hours and 8 days, 10% between 24 and 48 hours, and 20% inside 24 hours.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "kyfw.12306.cn",
+        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 50,
+      "topic": "rail_rule",
+      "claim_en": "The National Railway Administrationreported 162,000 km of railway in operation at the end of 2024, of which 48,000 km is high-speed — more than 70% of the world's high-speed mileage.",
+      "claim_zh": "",
+      "value": "162,000 km",
+      "unit": "",
+      "figure": "162,000 km",
+      "source": {
+        "name": "www.nra.gov.cn",
+        "url": "https://www.nra.gov.cn/tlfc/tpsy/202510/t20251030_349897.shtml"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 51,
+      "topic": "price",
+      "claim_en": "Universal travel adapter (my #1 pack item) Check on AmazonKlook — tickets & experiences I book while in China Book on Klook ⟨https://www.klook.com/⟩ Plan the rest of the trip: all travel and rail guides ⟨/en/travel/⟩ — every rule and fare cited to its official.",
+      "claim_zh": "",
+      "value": "1",
+      "unit": "",
+      "figure": "1",
+      "source": {
+        "name": "www.amazon.com",
+        "url": "https://www.amazon.com/dp/B07JW4V5JW"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 52,
+      "topic": "rail_rule",
+      "claim_en": "This guide answers the questions that trip up first-time riders, and every figure below is checked against official 12306 rules.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/high-speed-rail-ticket-steps"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 53,
+      "topic": "rail_rule",
+      "claim_en": "For visitors deciding between long-haul flights and rail, China Travel Guide 2026provides current policy updates on entry requirements that affect how long you might stay in each city between transfers.",
+      "claim_zh": "",
+      "value": "2026",
+      "unit": "",
+      "figure": "2026",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/china-travel-guide-2026-faq"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 54,
+      "topic": "luggage",
+      "claim_en": "For detailed restrictions on oversized items, see China Train Luggage Rules: The 130 cm Rule Foreigners Miss, which explains how the measurement works at station gateways.",
+      "claim_zh": "",
+      "value": "130 cm",
+      "unit": "",
+      "figure": "130 cm",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/china-train-luggage-rules"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 55,
+      "topic": "price",
+      "claim_en": "China's high-speed rail ⟨https://www.12306.cn/⟩ second class is the standard seating tier on the country's bullet trains, operated by China State Railway Group, and it is the ticket type most foreign visitors buy because it balances price with speed.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/what-are-the-best-things-to-do-in-china-with-kids"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 56,
+      "topic": "rail_rule",
+      "claim_en": "For visitors who also need to plan around food, city visits, and familylogistics, it helps to read a broader travel framework first and then apply the 12306 sleeper data to one specific route.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/how-to-get-a-family-visit-china-visa-in-2026"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 57,
+      "topic": "booking",
+      "claim_en": "To book business class, visit chinaRailway 12306's website or app, search for your route, and select the G-series train.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/how-to-get-a-family-visit-china-visa-in-2026"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 58,
+      "topic": "rail_rule",
+      "claim_en": "For travelers visiting multiple cities, the China Travel Guide 2026provides updated information on visa policies and new rail routes.",
+      "claim_zh": "",
+      "value": "2026",
+      "unit": "",
+      "figure": "2026",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/china-travel-guide-2026-faq"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 59,
+      "topic": "rail_rule",
+      "claim_en": "For travelers planning a multi-city China itinerary, the China Travel Guide 2026covers the latest high-speed rail expansions and airport express connections.",
+      "claim_zh": "",
+      "value": "2026",
+      "unit": "",
+      "figure": "2026",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/china-travel-guide-2026-faq"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 60,
+      "topic": "luggage",
+      "claim_en": "For more detail on the luggage rules, see the China Train Luggage Rules: The 130 cm Rule Foreigners Miss.",
+      "claim_zh": "",
+      "value": "130 cm",
+      "unit": "",
+      "figure": "130 cm",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/china-train-luggage-rules"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 61,
+      "topic": "rail_rule",
+      "claim_en": "If you are considering a sleeper-as-seat ticket on a connecting train, see 卧改坐: 9 Questions About Chinese Sleeper-As-Seat Tickets.",
+      "claim_zh": "",
+      "value": "9",
+      "unit": "",
+      "figure": "9",
+      "source": {
+        "name": "jiunotes.top",
+        "url": "https://jiunotes.top/en/articles/sleeper-as-seat-train"
+      },
+      "checked_on": "2026-11-10",
+      "recheck_by": "2027-02-08",
+      "added_from": "article-sync"
     }
   ]
 }

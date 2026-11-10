@@ -3,6 +3,10 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-10 — incremental sync from published articles
+
+- 22 entries added automatically from official-source sentences in newly published articles; 0 candidates skipped (unreachable or non-deep official source, or duplicate of an existing entry).
+
 ## 2026.11 — 2026-11-08
 
 - Initial public dataset: 39 verified entries across 10 topics — advance sale,
