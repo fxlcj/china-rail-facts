@@ -3,6 +3,10 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-11 — expanded with official-source facts
+
+- 7 entries added directly from official Chinese government sources (rail: NRA/PSB Announcement No.1 items catalogue; food: Anti-Food-Waste Law; payment: Interim Regulation on Express Delivery; festival: holiday-decision amendment). Total now 47.
+
 ## 2026-11-10 — incremental sync from published articles
 
 - 1 entry added from an official-source sentence in a newly published article (National Railway Administration, nra.gov.cn); 1 duplicate candidate skipped. An earlier same-day run (22 entries) was reverted the same day: its filters admitted internal links, affiliate links and fragments; sync was re-enabled only after filters were tightened to official-source-deep-links-only.

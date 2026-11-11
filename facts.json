@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "version": "2026.11",
-  "updated": "2026-11-10",
+  "updated": "2026-11-11",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 40,
+  "count": 47,
   "facts": [
     {
       "id": 1,
@@ -609,6 +609,111 @@
       "checked_on": "2026-11-10",
       "recheck_by": "2027-02-08",
       "added_from": "article-sync"
+    },
+    {
+      "id": 41,
+      "topic": "luggage",
+      "claim_en": "Perfume, toilet water, sprays and gels - flammable non-aerosol daily-use containers - are limited to containers of no more than 100 ml each, one container per type.",
+      "claim_zh": "香水、花露水、喷雾、凝胶等含易燃成分的非自喷压力容器日用品，单体容器容积不超过100毫升，每种限带1件。",
+      "value": "100",
+      "unit": "ml per container (1 per type)",
+      "figure": "≤100 ml each · 1 per type",
+      "source": {
+        "name": "国家铁路局官网",
+        "url": "https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml"
+      },
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09"
+    },
+    {
+      "id": 42,
+      "topic": "luggage",
+      "claim_en": "Nail polish and nail-polish remover are limited to a cumulative 50 ml.",
+      "claim_zh": "指甲油、去光剂累计不超过50毫升。",
+      "value": "50",
+      "unit": "ml cumulative",
+      "figure": "≤50 ml",
+      "source": {
+        "name": "国家铁路局官网",
+        "url": "https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml"
+      },
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09"
+    },
+    {
+      "id": 43,
+      "topic": "luggage",
+      "claim_en": "Aerosol cans - cold-wave liquid, hair dye, mousse, hairspray, insecticide, air freshener - are limited to 150 ml per can, one per type, cumulative no more than 600 ml.",
+      "claim_zh": "冷烫精、染发剂、摩丝、发胶、杀虫剂、空气清新剂等自喷压力容器，单体容器容积不超过150毫升，每种限带1件，累计不超过600毫升。",
+      "value": "150 / 600",
+      "unit": "ml per can / ml cumulative",
+      "figure": "≤150 ml each · ≤600 ml cumulative",
+      "source": {
+        "name": "国家铁路局官网",
+        "url": "https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml"
+      },
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09"
+    },
+    {
+      "id": 44,
+      "topic": "luggage",
+      "claim_en": "Safety matches are limited to 2 small boxes and ordinary lighters to 2 units.",
+      "claim_zh": "安全火柴不超过2小盒，普通打火机不超过2个。",
+      "value": "2 / 2",
+      "unit": "boxes / lighters",
+      "figure": "2 boxes · 2 lighters",
+      "source": {
+        "name": "国家铁路局官网",
+        "url": "https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml"
+      },
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09"
+    },
+    {
+      "id": 45,
+      "topic": "luggage",
+      "claim_en": "Clearly labelled power banks and lithium batteries are limited to a single rated energy of no more than 100 Wh; electric wheelchairs containing lithium batteries are excepted.",
+      "claim_zh": "标志清晰的充电宝、锂电池，单块额定能量不超过100Wh，含有锂电池的电动轮椅除外。",
+      "value": "100",
+      "unit": "Wh (single cell)",
+      "figure": "≤100 Wh",
+      "source": {
+        "name": "国家铁路局官网",
+        "url": "https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml"
+      },
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09"
+    },
+    {
+      "id": 46,
+      "topic": "luggage",
+      "claim_en": "Daily-use cutting tools with a blade longer than 60 mm - kitchen knives, fruit knives, scissors, craft knives - may not be carried on board but may be checked as baggage.",
+      "claim_zh": "锐器：菜刀、水果刀、剪刀、美工刀、雕刻刀、裁纸刀等日用刀具（刀刃长度超过60毫米），禁止随身携带但可以托运。",
+      "value": ">60",
+      "unit": "mm blade length",
+      "figure": "blade >60 mm",
+      "source": {
+        "name": "国家铁路局官网",
+        "url": "https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml"
+      },
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09"
+    },
+    {
+      "id": 47,
+      "topic": "rail_rule",
+      "claim_en": "The railway prohibited-and-restricted items catalogue for passengers took effect on 1 July 2022, replacing the 2015 list.",
+      "claim_zh": "本公告自2022年7月1日起施行，原《国家铁路局 公安部关于发布铁路〈禁止携带物品目录〉的公告》（国铁运输监〔2015〕3号）同时废止。",
+      "value": "2022-07-01",
+      "unit": "effective date",
+      "figure": "2022-07-01",
+      "source": {
+        "name": "国家铁路局官网",
+        "url": "https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml"
+      },
+      "checked_on": "2026-11-11",
+      "recheck_by": "2027-02-09"
     }
   ]
 }
