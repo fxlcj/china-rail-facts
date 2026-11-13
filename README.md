@@ -4,7 +4,7 @@ A reference for the China railway rules that foreign travelers most often get wr
 
 Every figure below carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 40 entries, machine-readable
+- `facts.json` — the same 48 entries, machine-readable
 - The human-readable version, with worked examples: <https://jiunotes.top/china-train-rules-fees-cheatsheet>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -69,6 +69,7 @@ The rules themselves are not secret — China Railway and the government portals
 | 45 | `luggage` | Clearly labelled power banks and lithium batteries are limited to a single rated energy of no more than 100 Wh; electric wheelchairs containing lithium batteries are excepted. | ≤100 Wh | [国家铁路局官网](https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml) | 2026-11-11 |
 | 46 | `luggage` | Daily-use cutting tools with a blade longer than 60 mm - kitchen knives, fruit knives, scissors, craft knives - may not be carried on board but may be checked as baggage. | blade >60 mm | [国家铁路局官网](https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml) | 2026-11-11 |
 | 47 | `rail_rule` | The railway prohibited-and-restricted items catalogue for passengers took effect on 1 July 2022, replacing the 2015 list. | 2022-07-01 | [国家铁路局官网](https://www.nra.gov.cn/jglz/fgzd/gfwj/zt/jgzf/202205/t20220530_326950.shtml) | 2026-11-11 |
+| 48 | `change` | China Railway 12306 permits one change per ticket with no percentage fee: more than 48 hours before departure you may switch to any train in the 15-day sale window, while inside 48 hours only a train on the same travel date or earlier, under the 2023 official change rules ( source ). | 12306 | [kyfw.12306.cn](https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html) | 2026-11-13 |
 ## Notes on the trickier rules
 
 ### Ticket release window and purchase channels
