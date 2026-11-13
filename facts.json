@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "version": "2026.11",
-  "updated": "2026-11-13",
+  "updated": "2026-11-14",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 48,
+  "count": 80,
   "facts": [
     {
       "id": 1,
@@ -730,6 +730,518 @@
       "checked_on": "2026-11-13",
       "recheck_by": "2027-02-11",
       "added_from": "article-sync"
+    },
+    {
+      "id": 49,
+      "topic": "rail_stat",
+      "claim_en": "At the end of 2025 China had 165,000 km of railway in operation, of which 50,000 km was high-speed rail — the largest high-speed network in the world.",
+      "claim_zh": "截至 2025 年底，全国铁路营业里程 16.5 万公里，其中高速铁路 5.0 万公里，为世界最大的高速铁路网。",
+      "value": "165,000 / 50,000",
+      "unit": "km",
+      "figure": "165,000 / 50,000 km",
+      "source": {
+        "name": "National Railway Administration (国家铁路局《2025年铁道统计公报》)",
+        "url": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202605/t20260529_351348.shtml"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 50,
+      "topic": "rail_stat",
+      "claim_en": "China's railways carried 4.601 billion passengers in 2025, up 6.7% year on year — a record high — and moved 5.277 billion tonnes of freight, up 2.0%.",
+      "claim_zh": "2025 年全国铁路旅客发送量 46.01 亿人次，同比增长 6.7%，创历史新高；货运总发送量 52.77 亿吨，同比增长 2.0%。",
+      "value": "4.601 billion / 5.277 billion",
+      "unit": "passengers / tonnes 2025",
+      "figure": "4.601 billion / 5.277 billion passengers / tonnes 2025",
+      "source": {
+        "name": "National Railway Administration (国家铁路局《2025年铁道统计公报》)",
+        "url": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202605/t20260529_351348.shtml"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 51,
+      "topic": "rail_stat",
+      "claim_en": "In 2025 China put 3,109 km of new railway lines into service, including 2,862 km of high-speed rail, with fixed-asset investment of CNY 901.5 billion.",
+      "claim_zh": "2025 年全国铁路投产新线 3109 公里，其中高速铁路 2862 公里；铁路固定资产投资完成 9015 亿元。",
+      "value": "3,109 / 2,862",
+      "unit": "km",
+      "figure": "3,109 / 2,862 km",
+      "source": {
+        "name": "National Railway Administration (国家铁路局《2025年铁道统计公报》)",
+        "url": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202605/t20260529_351348.shtml"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 52,
+      "topic": "transport_stat",
+      "claim_en": "By the end of 2024, 54 Chinese cities had urban rail transit in operation — 325 lines, 10,945.6 km of track and 6,324 stations; 43 of those cities run metro or light-rail lines.",
+      "claim_zh": "截至 2024 年底，全国 54 个城市开通运营城市轨道交通，共 325 条线路、运营里程 10945.6 公里、车站 6324 座；其中 43 个城市开通地铁或轻轨。",
+      "value": "54 / 325 / 10,945.6",
+      "unit": "cities / lines / km",
+      "figure": "54 / 325 / 10,945.6 cities / lines / km",
+      "source": {
+        "name": "Ministry of Transport (交通运输部)",
+        "url": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202512/t20251226_4185044.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 53,
+      "topic": "transport_stat",
+      "claim_en": "Urban rail transit in China recorded 32.24 billion passenger trips in 2024, up 9.5% year on year, with 408.5 million train runs.",
+      "claim_zh": "2024 年全国城市轨道交通完成客运量 322.4 亿人次，同比增长 9.5%，实际开行列车 4085 万列次。",
+      "value": "32.24 billion / 40.85 million",
+      "unit": "trips / train runs",
+      "figure": "32.24 billion / 40.85 million trips / train runs",
+      "source": {
+        "name": "Ministry of Transport (交通运输部)",
+        "url": "https://www.mot.gov.cn/xinwen/jiaotongyaowen/202512/t20251226_4185044.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 54,
+      "topic": "transport_stat",
+      "claim_en": "At the end of 2024 China had 263 certified civil aviation transport airports, with scheduled domestic flights serving 258 cities.",
+      "claim_zh": "截至 2024 年底，全国颁证民用航空运输机场 263 个，定期航班国内通航城市 258 个。",
+      "value": "263 / 258",
+      "unit": "airports / cities",
+      "figure": "263 / 258 airports / cities",
+      "source": {
+        "name": "Ministry of Transport (交通运输部)",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 55,
+      "topic": "transport_stat",
+      "claim_en": "China had 190,700 km of expressways at the end of 2024, within a total road network of 5.49 million km.",
+      "claim_zh": "截至 2024 年底，全国高速公路里程 19.07 万公里，公路总里程 549.04 万公里。",
+      "value": "190,700 / 5,490,400",
+      "unit": "km",
+      "figure": "190,700 / 5,490,400 km",
+      "source": {
+        "name": "Ministry of Transport (交通运输部)",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 56,
+      "topic": "rail_stat",
+      "claim_en": "China is the only country in the world running high-speed trains at a commercial speed of 350 km/h; 350 km/h Fuxing trains serve the Beijing-Shanghai, Beijing-Tianjin, Beijing-Zhangjiakou, Chengdu-Chongqing and Beijing-Guangzhou lines.",
+      "claim_zh": "中国是世界上唯一实现高铁时速 350 公里商业运营的国家，京沪、京津、京张、成渝、京广等线路的复兴号按 350 公里高标运营。",
+      "value": "350",
+      "unit": "km/h",
+      "figure": "350 km/h",
+      "source": {
+        "name": "China State Railway Group",
+        "url": "http://www.china-railway.com.cn/xwzx/mtjj/rmrbhwb/rmrbhwb/202409/t20240920_137982.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 57,
+      "topic": "rail_stat",
+      "claim_en": "China's high-speed rail network reaches 96% of Chinese cities with a population above 500,000, and Hong Kong is connected to the national high-speed network.",
+      "claim_zh": "中国高铁覆盖全国 96% 的 50 万人口以上城市，香港已接入全国高铁网。",
+      "value": "96%",
+      "unit": "of cities over 500k",
+      "figure": "96% of cities over 500k",
+      "source": {
+        "name": "China State Railway Group",
+        "url": "http://www.china-railway.com.cn/xwzx/mtjj/rmrbhwb/rmrbhwb/202409/t20240920_137982.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 58,
+      "topic": "rail_stat",
+      "claim_en": "Fastest scheduled journey times: Beijing to Shanghai 4 h 18 min (about 12 h before high-speed rail) and Beijing to Guangzhou 7 h 16 min (about 21 h before).",
+      "claim_zh": "最快运行时间：北京到上海 4 小时 18 分（高铁开通前约 12 小时），北京到广州 7 小时 16 分（此前约 21 小时）。",
+      "value": "4h18m / 7h16m",
+      "unit": "fastest journey",
+      "figure": "4h18m / 7h16m fastest journey",
+      "source": {
+        "name": "China State Railway Group",
+        "url": "http://www.china-railway.com.cn/xwzx/mtjj/rmrbhwb/rmrbhwb/202409/t20240920_137982.html"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 59,
+      "topic": "transport_stat",
+      "claim_en": "Chinese airlines carried 730.2 million passengers in 2024, up 17.9% year on year; international routes carried 65.56 million, up 125.6%.",
+      "claim_zh": "2024 年中国民航完成旅客运输量 7.302 亿人次，同比增长 17.9%；其中国际航线 6,555.55 万人次，同比增长 125.6%。",
+      "value": "730.2 million",
+      "unit": "air passengers 2024",
+      "figure": "730.2 million air passengers 2024",
+      "source": {
+        "name": "2024 Statistical Bulletin on the Development of the Transport Industry, Ministry of Transport",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 60,
+      "topic": "transport_stat",
+      "claim_en": "China's 263 civil transport airports handled 1.46 billion passenger trips in 2024, up 15.9%; 40 airports passed 10 million passengers a year. The country had 66 airlines, 4,394 transport aircraft and 5,334 scheduled routes.",
+      "claim_zh": "2024 年全国 263 个民航运输机场完成旅客吞吐量 14.60 亿人次，同比增长 15.9%；年旅客吞吐量 1,000 万人次以上的机场 40 个。全行业运输航空公司 66 家、运输飞机 4,394 架、定期航班航线 5,334 条。",
+      "value": "1.46 billion",
+      "unit": "airport throughput 2024",
+      "figure": "1.46 billion airport throughput 2024",
+      "source": {
+        "name": "2024 Statistical Bulletin on the Development of the Transport Industry, Ministry of Transport",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 61,
+      "topic": "transport_stat",
+      "claim_en": "Urban passenger transport in China totalled 106.8 billion trips in 2024 (up 5.7%), split between buses and trolleybuses (38.67 billion), taxis (35.84 billion) and urban rail (32.21 billion, up 9.6%).",
+      "claim_zh": "2024 年全国城市客运量 1,067.97 亿人次，同比增长 5.7%；其中公共汽电车 386.70 亿、出租汽车 358.41 亿、城市轨道交通 322.09 亿人次（同比增长 9.6%）。",
+      "value": "106.8 billion",
+      "unit": "urban passenger trips 2024",
+      "figure": "106.8 billion urban passenger trips 2024",
+      "source": {
+        "name": "2024 Statistical Bulletin on the Development of the Transport Industry, Ministry of Transport",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-12",
+      "recheck_by": "2027-05-12",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 62,
+      "topic": "rail_stat",
+      "claim_en": "At the end of 2025 China's national rail fleet comprised 22,700 locomotives (14,700 electric), 83,000 passenger coaches including 5,230 EMU sets (41,836 cars), and 1.024 million freight wagons.",
+      "claim_zh": "截至 2025 年底，全国铁路机车拥有量 2.27 万台（电力机车 1.47 万台），客车 8.3 万辆（其中动车组 5230 标准组、41836 辆），货车 102.4 万辆。",
+      "value": "5,230 EMU sets",
+      "unit": "rolling stock 2025",
+      "figure": "5,230 EMU sets rolling stock 2025",
+      "source": {
+        "name": "National Railway Administration (国家铁路局《2025年铁道统计公报》)",
+        "url": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202605/t20260529_351348.shtml"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 63,
+      "topic": "rail_stat",
+      "claim_en": "China's rail network density reached 171.7 km per 10,000 km² at the end of 2025, with a double-track rate of 61.4%, electrification rate of 76.8%, and 67,000 km of railway in the western region.",
+      "claim_zh": "截至 2025 年底，全国铁路路网密度 171.7 公里/万平方公里，复线率 61.4%，电化率 76.8%，西部地区铁路营业里程 6.7 万公里。",
+      "value": "171.7 km",
+      "unit": "network density 2025",
+      "figure": "171.7 km network density 2025",
+      "source": {
+        "name": "National Railway Administration (国家铁路局《2025年铁道统计公报》)",
+        "url": "https://www.nra.gov.cn/xwzx/xwxx/xwlb/202605/t20260529_351348.shtml"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 64,
+      "topic": "id",
+      "claim_en": "Which document you can use to buy a Chinese train ticket depends on the channel. At a station ticket window, a ticket agent's counter or on board (for tickets and fare top-ups), seven document types are accepted: Foreign Permanent Resident ID, foreign passport, foreigner exit-entry permit, seaman's book, the receipt issued by the public security exit-entry administration for a pending visa application, a police report of a lost passport, and a temporary international travel document issued by an embassy or consulate carrying a valid Chinese visa or stay permit. On the 12306 English website, the 12306 app and the booking hotline, only the Foreign Permanent Resident ID and the foreign passport work. Ticket machines accept only the Foreign Permanent Resident ID — a foreign passport will not work there.",
+      "claim_zh": "外国旅客购买中国火车票，可用证件按渠道分三档：①车站售票窗口 / 代售点 / 车上补票 = 7 类（外国人永久居留身份证、护照、外国人出入境证、海员证、签证证件受理回执、护照报失证明、使领馆签发的附有效签证的临时国际旅行证件）；②12306 英文版网站 / APP / 订票电话 = 仅永居证 + 护照；③自动售票机 = 仅永居证（护照不可用）。",
+      "value": "7 / 2 / 1 document types by channel",
+      "unit": "channels",
+      "figure": "7 / 2 / 1 document types by channel channels",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 65,
+      "topic": "booking",
+      "claim_en": "Foreign travellers must complete identity verification before buying a train ticket — Chinese rail sells tickets against real names. There are two routes: log in to the 12306 English website or app and enter your name, nationality and document number for automatic verification (or upload a photo of the passport data page for manual review), or take the physical passport to a station ticket window and have it verified there.",
+      "claim_zh": "外国旅客购票前必须完成身份核验（铁路实名制）。两条路径：①登录 12306 英文版网站或 APP，填写姓名、国籍、证件号码由系统自动核验，也可上传护照信息页照片由后台人工核验；②携带本人有效护照到车站售票窗口办理核验。",
+      "value": "identity verification before purchase",
+      "unit": "prerequisite",
+      "figure": "identity verification before purchase prerequisite",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 66,
+      "topic": "booking",
+      "claim_en": "On the 12306 English website and app you can pay with domestic or overseas bank cards and with mobile payment apps. At a station window you can additionally pay cash in RMB. Some stations also have self-service ticket machines. Cards are processed in RMB, so your issuer applies its own conversion.",
+      "claim_zh": "在 12306 英文版网站和 APP 上购票，可用境内外银行卡及移动支付 APP 付款；车站窗口另可用人民币现金。部分车站设有自助售票机。票价按人民币计收，货币转换由发卡行完成。",
+      "value": "domestic + overseas cards accepted",
+      "unit": "payment methods",
+      "figure": "domestic + overseas cards accepted payment methods",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 67,
+      "topic": "change",
+      "claim_en": "Change windows: more than 48 hours before departure you can move your ticket to any train inside the 15-day sale window. Within 48 hours you can only change to the same travel date or earlier — not the next day or any later date. After the train has left you can still change to another train that same day, but a ticket changed after departure can never be refunded.",
+      "claim_zh": "改签时间窗：开车前 48 小时以上，可改签到 15 天预售期内的任意列车；开车前 48 小时以内，只能改签到票面乘车日期当日及以前，不能改次日及以后；开车之后仍可改签当日其他列车，但开车后改签的车票不能再退票。",
+      "value": "48h / same day",
+      "unit": "cut-offs",
+      "figure": "48h / same day cut-offs",
+      "source": {
+        "name": "China Railway 12306 – Ticket Purchase Notice (铁路旅客购票须知)",
+        "url": "https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 68,
+      "topic": "change",
+      "claim_en": "Changing the destination station must be done more than 48 hours before departure. Inside that window a destination change is not accepted at all.",
+      "claim_zh": "变更到站必须赶在开车前 48 小时以上办理；进入 48 小时以内就不再受理变更到站。",
+      "value": "48",
+      "unit": "hours before departure",
+      "figure": "48 hours before departure",
+      "source": {
+        "name": "China Railway 12306 – Ticket Purchase Notice (铁路旅客购票须知)",
+        "url": "https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 69,
+      "topic": "refund",
+      "claim_en": "Anti-loophole rule: if you bought a ticket less than 8 days before departure, then changed it to a train departing 8 or more days later, and then refunded it 8+ days out, a 5% refund fee is still charged — the free-cancel window does not open up just by rescheduling.",
+      "claim_zh": "防钻空子条款：距开车不足 8 天买的车票，先改签到开车前 8 天以上的列车，再在开车前 8 天以上退票，仍要按票面价 5% 收退票费——不能靠改签「刷新」出免费退票窗口。",
+      "value": "5%",
+      "unit": "refund fee",
+      "figure": "5% refund fee",
+      "source": {
+        "name": "China Railway 12306 – Refund FAQ (退票费怎么收)",
+        "url": "https://kyfw.12306.cn/otn/gonggao/windowRefund.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 70,
+      "topic": "refund",
+      "claim_en": "Spring Festival rule: if a changed ticket travels during the Spring Festival rush, refunding it is charged at the under-24-hours rate of 20% — even if you cancel weeks in advance. Buying a discounted ticket for the rush and cancelling later is therefore expensive.",
+      "claim_zh": "春运条款：改签后车票的乘车日期落在春运期间的，退票一律按「开车前不足 24 小时」标准收 20% 退票费——哪怕提前几周退也一样。春运票退改成本明显更高。",
+      "value": "20%",
+      "unit": "refund fee",
+      "figure": "20% refund fee",
+      "source": {
+        "name": "China Railway 12306 – Ticket Purchase Notice (铁路旅客购票须知)",
+        "url": "https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 71,
+      "topic": "refund",
+      "claim_en": "Once you cancel a ticket or request a refund, the railway must complete the refund within 7 working days. That clock excludes bank/card processing time and any delay caused by the passenger.",
+      "claim_zh": "办理退票、申请退款后，铁路须在 7 个工作日内办结退款手续；该时限不含银行等金融机构的处理时间和旅客自身原因造成的延误。",
+      "value": "7",
+      "unit": "working days",
+      "figure": "7 working days",
+      "source": {
+        "name": "Ministry of Transport – Railway Passenger Transport Regulations (Order No. 37 of 2022)",
+        "url": "https://www.gov.cn/zhengce/zhengceku/2022-11/18/content_5727695.htm"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 72,
+      "topic": "refund",
+      "claim_en": "Mistaken-purchase free cancellation (since 19 January 2026): if you bought the wrong ticket, you can cancel online at no charge when you cancel within 30 minutes of successful payment AND more than 4 hours before departure. Limit one such order per person per calendar day; rescheduled tickets, reservations and waitlisted orders do not qualify.",
+      "claim_zh": "误购限时免费退票（2026-01-19 起）：买错票时，只要在支付成功 30 分钟内、且距开车 4 小时以上，可在 12306 线上自助免费退票。同一购票人每个自然日限办 1 个订单；改签车票、预约与候补订单不适用。",
+      "value": "30 min / 4 h",
+      "unit": "free-cancel window",
+      "figure": "30 min / 4 h free-cancel window",
+      "source": {
+        "name": "China State Railway Group – 2026 Spring Festival ticket sales announcement",
+        "url": "http://www.china-railway.com.cn/xwzx/mtjj/rmrb/rmrb/202601/t20260119_151673.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 73,
+      "topic": "booking",
+      "claim_en": "Reimbursement receipts must be collected within 180 days — before departure, or within 180 days from the travel date — at a station window or ticket machine, using the same ID used for purchase. Once printed, a lost receipt is never reissued, and you must hand it back if you later change or refund the ticket.",
+      "claim_zh": "报销凭证须在 180 天内换取：开车前，或自乘车日期起 180 天以内，凭购票所用有效身份证件到车站窗口或自动售票机换取。已打印的凭证丢失不再补办；之后办理改签、退票时须交回。",
+      "value": "180",
+      "unit": "days",
+      "figure": "180 days",
+      "source": {
+        "name": "China Railway 12306 – Ticket Purchase Notice (铁路旅客购票须知)",
+        "url": "https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 74,
+      "topic": "child",
+      "claim_en": "A child's age is counted as of the travel date, not the booking date. Anyone under 14 must travel with an adult; a free-riding child (under 6, not occupying a seat, one per ticketed adult) must still present valid ID at the gate.",
+      "claim_zh": "儿童年龄按乘车日期计算，不按购票日期。未满 14 周岁须随同成年人旅行；免费乘车儿童（未满 6 周岁、不单独占座、每名持票成人限带 1 名）检票乘车时同样要出示有效身份证件。",
+      "value": "travel date",
+      "unit": "age basis",
+      "figure": "travel date age basis",
+      "source": {
+        "name": "China Railway 12306 – Ticket Purchase Notice (铁路旅客购票须知)",
+        "url": "https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 75,
+      "topic": "student",
+      "claim_en": "Student discount tickets need an eligibility check once per academic year (1 October – 30 September): verify your ID against the student discount card at 12306 online, a station window or a ticket machine before you travel. Without the check the discount will not be honoured.",
+      "claim_zh": "学生优惠票每学年（10 月 1 日至次年 9 月 30 日）须办理一次优惠资质核验：出发前通过 12306 网站、车站指定窗口或自动售票机，把身份证件与学生优惠卡绑定核验。未核验不予享受优惠。",
+      "value": "1",
+      "unit": "check per academic year",
+      "figure": "1 check per academic year",
+      "source": {
+        "name": "China Railway 12306 – Ticket Purchase Notice (铁路旅客购票须知)",
+        "url": "https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 76,
+      "topic": "rail_rule",
+      "claim_en": "Four behaviours mean you pay the fare for the un-ticketed section PLUS a 50% surcharge: riding without a ticket and not volunteering to pay; staying on past your ticketed stop; sitting in a higher class than the one ticketed; and travelling on a discount or concession ticket you do not qualify for.",
+      "claim_zh": "四种行为除补收票款外，还可加收已乘区间应补票款 50%：无票乘车又不主动补票；到站不下车继续乘坐；持低等级席位票坐高等级席位；持不符合减价条件的优惠、优待票乘车。",
+      "value": "50%",
+      "unit": "surcharge",
+      "figure": "50% surcharge",
+      "source": {
+        "name": "Ministry of Transport – Railway Passenger Transport Regulations (Order No. 37 of 2022)",
+        "url": "https://www.gov.cn/zhengce/zhengceku/2022-11/18/content_5727695.htm"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 77,
+      "topic": "rail_rule",
+      "claim_en": "Complaint handling deadlines: the railway must acknowledge a complaint within 3 working days and give a substantive answer within 10 working days. If it refuses to handle the complaint it must state why. Complaint records are kept for at least 3 years.",
+      "claim_zh": "投诉处理时限：铁路须在收到投诉后 3 个工作日内答复受理情况、10 个工作日内告知实质性处理结果；不予受理须说明理由。投诉记录至少保存 3 年。",
+      "value": "3 / 10",
+      "unit": "working days",
+      "figure": "3 / 10 working days",
+      "source": {
+        "name": "Ministry of Transport – Railway Passenger Transport Regulations (Order No. 37 of 2022)",
+        "url": "https://www.gov.cn/zhengce/zhengceku/2022-11/18/content_5727695.htm"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 78,
+      "topic": "luggage",
+      "claim_en": "Checked luggage is stored free for at least 3 days from the day it arrives. If the luggage itself arrived late, free storage extends to at least 10 days. Loss or force majeure can extend it further.",
+      "claim_zh": "托运行李自运到日起至少免费保管 3 日；属逾期到达的行李至少免费保管 10 日；因行李损失或不可抗力等原因应适当延长。",
+      "value": "3 / 10",
+      "unit": "days free storage",
+      "figure": "3 / 10 days free storage",
+      "source": {
+        "name": "Ministry of Transport – Railway Passenger Transport Regulations (Order No. 37 of 2022)",
+        "url": "https://www.gov.cn/zhengce/zhengceku/2022-11/18/content_5727695.htm"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-05-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 79,
+      "topic": "booking",
+      "claim_en": "Tickets for the first day of the 2026 Spring Festival rush (2 February) went on sale on 19 January 2026 — 15 days ahead, matching the standard advance-sale window.",
+      "claim_zh": "2026 年春运首日（2 月 2 日）车票于 2026 年 1 月 19 日开售，提前 15 天，与常规预售期一致。",
+      "value": "19 Jan 2026",
+      "unit": "on-sale date",
+      "figure": "19 Jan 2026 on-sale date",
+      "source": {
+        "name": "China State Railway Group – 2026 Spring Festival ticket sales announcement",
+        "url": "http://www.china-railway.com.cn/xwzx/mtjj/rmrb/rmrb/202601/t20260119_151673.html"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
+    },
+    {
+      "id": 80,
+      "topic": "id",
+      "claim_en": "Non-Chinese permanent residents of Hong Kong or Macao can apply for a Mainland Travel Permit (valid 5 years, multiple entries, stay up to 90 days each) through China Travel Service HK or Macau, or renew it at city-level entry-exit administrations on the mainland.",
+      "claim_zh": "非中国籍港澳永久性居民可向香港中旅集团、澳门中国旅行社递交通行证申请；证件有效期5年，可多次来往内地，每次停留不超过90日；换发补发也可向内地设区的市级以上公安机关出入境管理机构申请。",
+      "value": "5 years / 90 days",
+      "unit": "permit validity / max stay per entry",
+      "figure": "5 years / 90 days permit validity / max stay per entry",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13",
+      "added_from": "db-backfill"
     }
   ]
 }

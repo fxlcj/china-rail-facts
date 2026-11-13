@@ -3,6 +3,10 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-14 — DB backfill
+
+- 32 entries appended from the site's curated `verified_facts` (source URLs already re-checked against official pages at DB ingest). Append-only, deduped by claim+source.
+
 ## 2026-11-13 — correction: change (rebooking) fee is NOT percentage-based
 
 - **Entry #12 replaced.** The previous row quoted a "5% / 15% / 40%" change-fee ladder. That figure no longer reflects the official rule and has been withdrawn: changing a ticket carries **no percentage fee** — you pay the fare difference if the new ticket costs more, and get the difference back if it costs less. The only fee that can arise is the refund fee, and only if you later cancel.
