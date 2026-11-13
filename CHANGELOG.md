@@ -3,6 +3,12 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-13 — correction: change (rebooking) fee is NOT percentage-based
+
+- **Entry #12 replaced.** The previous row quoted a "5% / 15% / 40%" change-fee ladder. That figure no longer reflects the official rule and has been withdrawn: changing a ticket carries **no percentage fee** — you pay the fare difference if the new ticket costs more, and get the difference back if it costs less. The only fee that can arise is the refund fee, and only if you later cancel.
+- Source re-pointed to the China Railway ticket-purchase notice (kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html), re-checked 2026-11-13. The 48-hour rule in entry #11's companion facts governs *which trains* you may move to, not a fee rate.
+- README narrative section "Change fees (rebooking)" and the machine-readable row updated in the same commit. Total entries unchanged (48).
+
 ## 2026-11-13 — incremental sync from published articles
 
 - 1 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).

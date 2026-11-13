@@ -72,17 +72,17 @@
     {
       "id": 12,
       "topic": "change",
-      "claim_en": "Change fee: FREE 48h+ before departure or changing to same/earlier train; 5% for 24-48h to a later date; 15% under 24h to a later date; 40% after departure to next day or later",
-      "claim_zh": "改签费：开车前48小时以上改签或改签当日及以前列车免收；开车前24-48小时改签之后日期按5%；不足24小时按15%；开车后当日改签次日及以后按40%",
-      "value": "40",
-      "unit": "% max",
-      "figure": "40% maximum",
+      "claim_en": "Changing a ticket carries no percentage fee. You simply pay the fare difference if the new ticket costs more, or get the difference back if it costs less. The only fee that can arise is the refund fee, and only if you later cancel instead of travelling.",
+      "claim_zh": "改签不收百分比手续费：新车票更贵的补差额，更便宜的退还差额。唯一可能产生的费用是退票费，而且只有在你后来选择退票、而不是乘车时才会收。",
+      "value": "no percentage fee",
+      "unit": "pay/refund fare difference only",
+      "figure": "0% change fee (fare difference only)",
       "source": {
-        "name": "中国铁路12306官网",
-        "url": "https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html"
+        "name": "中国铁路12306官网（铁路旅客购票须知）",
+        "url": "https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html"
       },
-      "checked_on": "2026-11-05",
-      "recheck_by": "2027-02-05"
+      "checked_on": "2026-11-13",
+      "recheck_by": "2027-02-13"
     },
     {
       "id": 3,

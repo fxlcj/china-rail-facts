@@ -26,7 +26,7 @@ The rules themselves are not secret — China Railway and the government portals
 | 2 | `booking` | Guangzhou-Shenzhen-Hong Kong cross-border high-speed rail tickets: 15-day advance sale (incl. sale day) | 15 days (incl. sale day) | [中国铁路12306官网](https://kyfw.12306.cn/otn/gonggao/gsggp.html) | 2026-11-05 |
 | 19 | `booking` | Official purchase channels: 12306 website/App is the ONLY official channel; also station windows, ticket machines, phone booking and authorized agents | 12306 is the only official channel | [中国铁路12306官网](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html) | 2026-11-05 |
 | 11 | `change` | Each ticket can be changed ONCE (including changing the destination station) when capacity allows | 1 change per ticket | [中国铁路12306官网](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html) | 2026-11-05 |
-| 12 | `change` | Change fee: FREE 48h+ before departure or changing to same/earlier train; 5% for 24-48h to a later date; 15% under 24h to a later date; 40% after departure to next day or later | 40% maximum | [中国铁路12306官网](https://kyfw.12306.cn/otn/gonggao/deliveryPrice_4.html) | 2026-11-05 |
+| 12 | `change` | Changing a ticket carries no percentage fee. You simply pay the fare difference if the new ticket costs more, or get the difference back if it costs less. The only fee that can arise is the refund fee, and only if you later cancel instead of travelling. | 0% change fee (fare difference only) | [中国铁路12306官网（铁路旅客购票须知）](https://kyfw.12306.cn/mormhweb/zxdt/202311/t20231114_40286.html) | 2026-11-13 |
 | 3 | `child` | Children under 6 ride free (one per adult, no seat); ages 6-13 get child discount fare; ages 14+ pay full fare | 6-13 years old (child fare) | [中国铁路12306官网](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html) | 2026-11-05 |
 | 4 | `child` | Child discount fare: 50% of full fare on conventional trains and EMU 2nd/1st class; 70% on EMU sleeper | 50% of full fare (70% for EMU sleeper) | [中国铁路12306官网](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html) | 2026-11-05 |
 | 16 | `id` | Cross-border ticket ID types: Chinese resident ID, Mainland Travel Permit / residence permits for HK/Macao/Taiwan residents, foreign permanent residence ID, valid passports, temporary ID | 5 document types accepted | [中国铁路12306官网](https://kyfw.12306.cn/otn/gonggao/gsggp.html) | 2026-11-05 |
@@ -82,7 +82,7 @@ Four tiers, and the boundary is departure time, not booking time.
 
 ### Change fees (rebooking)
 
-One change per ticket, and the fee depends on direction — moving your trip *earlier* is free at any point.
+One change per ticket, no percentage fee — you pay the fare difference if the new ticket costs more, and get the difference back if it costs less. The 48-hour rule governs *which trains* you can move to (see the fact rows), not how much you pay.
 
 ### Luggage allowance and restricted items
 
