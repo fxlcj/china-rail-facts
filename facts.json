@@ -7,7 +7,7 @@
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 80,
+  "count": 81,
   "facts": [
     {
       "id": 1,
@@ -1242,6 +1242,22 @@
       "checked_on": "2026-11-13",
       "recheck_by": "2027-02-13",
       "added_from": "db-backfill"
+    },
+    {
+      "id": 81,
+      "topic": "refund",
+      "claim_en": "Refund fees range from 0% to 20% depending on how far in advance you cancel, according to China Railway 12306.",
+      "claim_zh": "",
+      "value": "0%",
+      "unit": "",
+      "figure": "0%",
+      "source": {
+        "name": "www.12306.cn",
+        "url": "https://www.12306.cn/en/index.html"
+      },
+      "checked_on": "2026-11-14",
+      "recheck_by": "2027-02-12",
+      "added_from": "article-sync"
     }
   ]
 }
