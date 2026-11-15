@@ -4,7 +4,7 @@ A reference for the China railway rules that foreign travelers most often get wr
 
 Every figure below carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 81 entries, machine-readable
+- `facts.json` — the same 82 entries, machine-readable
 - The human-readable version, with worked examples: <https://jiunotes.top/china-train-rules-fees-cheatsheet>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -103,6 +103,7 @@ The rules themselves are not secret — China Railway and the government portals
 | 79 | `booking` | Tickets for the first day of the 2026 Spring Festival rush (2 February) went on sale on 19 January 2026 — 15 days ahead, matching the standard advance-sale window. | 19 Jan 2026 on-sale date | [China State Railway Group – 2026 Spring Festival ticket sales announcement](http://www.china-railway.com.cn/xwzx/mtjj/rmrb/rmrb/202601/t20260119_151673.html) | 2026-11-13 |
 | 80 | `id` | Non-Chinese permanent residents of Hong Kong or Macao can apply for a Mainland Travel Permit (valid 5 years, multiple entries, stay up to 90 days each) through China Travel Service HK or Macau, or renew it at city-level entry-exit administrations on the mainland. | 5 years / 90 days permit validity / max stay per entry | [Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)](https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf) | 2026-11-13 |
 | 81 | `refund` | Refund fees range from 0% to 20% depending on how far in advance you cancel, according to China Railway 12306. | 0% | [www.12306.cn](https://www.12306.cn/en/index.html) | 2026-11-14 |
+| 82 | `rail_rule` | With five days or more, choose Dali; with just 48 hours, choose Lijiang — the two Yunnan old towns are only 80 minutes apart by train, at about 1,970 m and 2,400 m above sea level; China had 339 scenic areas rated 5A at the end of 2024, per the Ministry of Culture and Tourism. | 48 hours | [zwgk.mct.gov.cn](https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202505/t20250530_960335.html) | 2026-11-15 |
 ## Notes on the trickier rules
 
 ### Ticket release window and purchase channels
