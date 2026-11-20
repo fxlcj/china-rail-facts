@@ -4,7 +4,7 @@ A reference for the China railway rules that foreign travelers most often get wr
 
 Every figure below carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 84 entries, machine-readable
+- `facts.json` — the same 85 entries, machine-readable
 - The human-readable version, with worked examples: <https://jiunotes.top/china-train-rules-fees-cheatsheet>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -106,6 +106,7 @@ The rules themselves are not secret — China Railway and the government portals
 | 82 | `rail_rule` | With five days or more, choose Dali; with just 48 hours, choose Lijiang — the two Yunnan old towns are only 80 minutes apart by train, at about 1,970 m and 2,400 m above sea level; China had 339 scenic areas rated 5A at the end of 2024, per the Ministry of Culture and Tourism. | 48 hours | [zwgk.mct.gov.cn](https://zwgk.mct.gov.cn/zfxxgkml/tjxx/202505/t20250530_960335.html) | 2026-11-15 |
 | 83 | `price` | A nine-day, three-city trip on high-speed rail works with children aged 9 and 5 when the plan assumes one real activity a day and a nap; 12306 has sold child fares by age since early 2023, and children aged 12 and under are exempt from the CNY 50 civil aviation development fund on domestic flights, per the State Council. | 9 | [www.gov.cn](https://www.gov.cn/gongbao/content/2012/content_2182764.htm) | 2026-11-17 |
 | 84 | `refund` | 12306 change and refund rules — ticket change and refund procedures; 12306 refund fee FAQ — the 5% fee and the free-cancellation window; China State Railway Group — the 2026 mistaken-purchase rule and its once-per-day limit. | 12306 | [kyfw.12306.cn](https://kyfw.12306.cn/otn/gonggao/endorseAndRefund.html) | 2026-11-17 |
+| 85 | `luggage` | Where these rules come from Every rule above is quoted from China Railway's own English material: the 12306 English FAQ , which carries the child-ticket, ID, berth, luggage and security answers, and the 12306 English booking site. | 12306 | [www.12306.cn](https://www.12306.cn/en/faq.html?item=2) | 2026-11-20 |
 ## Notes on the trickier rules
 
 ### Ticket release window and purchase channels
