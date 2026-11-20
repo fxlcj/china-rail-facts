@@ -3,6 +3,10 @@
 Each entry records what changed and the date the official source was re-checked.
 A figure never changes without its `checked_on` date changing with it.
 
+## 2026-11-21 — DB backfill
+
+- 1 entries appended from the site's curated `verified_facts` (source URLs already re-checked at DB ingest). Append-only, deduped by claim+source.
+
 ## 2026-11-20 — incremental sync from published articles
 
 - 1 entries added from official-source sentences in newly published articles; 0 candidates skipped (unreachable/non-official/duplicate source).
