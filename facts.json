@@ -7,7 +7,7 @@
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 86,
+  "count": 88,
   "facts": [
     {
       "id": 1,
@@ -1339,6 +1339,38 @@
       "recheck_by": "2027-12-31",
       "added_from": "db-backfill",
       "db_fact_id": 272
+    },
+    {
+      "id": 87,
+      "topic": "id",
+      "claim_en": "12306 English FAQ — ticketing : validity of a ticket, boarding at an intermediate station, real-name rules, the document you must carry.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "www.12306.cn",
+        "url": "https://www.12306.cn/en/faq.html"
+      },
+      "checked_on": "2026-11-21",
+      "recheck_by": "2027-02-19",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 88,
+      "topic": "refund",
+      "claim_en": "12306 English FAQ — endorsement and refund : what 改签 can change, the fee tiers, change of destination, the refund ladder.",
+      "claim_zh": "",
+      "value": "12306",
+      "unit": "",
+      "figure": "12306",
+      "source": {
+        "name": "www.12306.cn",
+        "url": "https://www.12306.cn/en/faq.html?item=1"
+      },
+      "checked_on": "2026-11-21",
+      "recheck_by": "2027-02-19",
+      "added_from": "article-sync"
     }
   ]
 }
