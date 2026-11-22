@@ -4,7 +4,7 @@ A reference for the China railway rules that foreign travelers most often get wr
 
 Every figure below carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 88 entries, machine-readable
+- `facts.json` — the same 89 entries, machine-readable
 - The human-readable version, with worked examples: <https://jiunotes.top/china-train-rules-fees-cheatsheet>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -110,6 +110,7 @@ The rules themselves are not secret — China Railway and the government portals
 | 86 | `booking` | The 12306 English website runs query and refund services 24 hours a day, but ticket sales and endorsement (changes) are only open 5:00 to 01:00 the next day — on Tuesdays until 23:30. Plan purchases inside that window, or buy at a station counter instead. | 24h query+refund / purchase 5:00-01:00 (Tue 23:30) service hours by function | [China Railway 12306 English FAQ (中国铁路 12306 英文版常见问题)](https://www.12306.cn/en/faq.html?item=0) | 2026-11-20 |
 | 87 | `id` | 12306 English FAQ — ticketing : validity of a ticket, boarding at an intermediate station, real-name rules, the document you must carry. | 12306 | [www.12306.cn](https://www.12306.cn/en/faq.html) | 2026-11-21 |
 | 88 | `refund` | 12306 English FAQ — endorsement and refund : what 改签 can change, the fee tiers, change of destination, the refund ladder. | 12306 | [www.12306.cn](https://www.12306.cn/en/faq.html?item=1) | 2026-11-21 |
+| 89 | `rail_rule` | 39 on the Chinese government policy site; the Railway Passenger Transport Regulations, Order No. | 39 | [www.gov.cn](https://www.gov.cn/zhengce/2022-11/28/content_5730385.htm) | 2026-11-22 |
 ## Notes on the trickier rules
 
 ### Ticket release window and purchase channels

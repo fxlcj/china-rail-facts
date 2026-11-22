@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "version": "2026.11",
-  "updated": "2026-11-21",
+  "updated": "2026-11-22",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 88,
+  "count": 89,
   "facts": [
     {
       "id": 1,
@@ -1370,6 +1370,22 @@
       },
       "checked_on": "2026-11-21",
       "recheck_by": "2027-02-19",
+      "added_from": "article-sync"
+    },
+    {
+      "id": 89,
+      "topic": "rail_rule",
+      "claim_en": "39 on the Chinese government policy site; the Railway Passenger Transport Regulations, Order No.",
+      "claim_zh": "",
+      "value": "39",
+      "unit": "",
+      "figure": "39",
+      "source": {
+        "name": "www.gov.cn",
+        "url": "https://www.gov.cn/zhengce/2022-11/28/content_5730385.htm"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2027-02-20",
       "added_from": "article-sync"
     }
   ]
