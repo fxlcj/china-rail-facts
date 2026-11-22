@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "version": "2026.11",
-  "updated": "2026-11-22",
+  "updated": "2026-11-23",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 89,
+  "count": 93,
   "facts": [
     {
       "id": 1,
@@ -1387,6 +1387,74 @@
       "checked_on": "2026-11-22",
       "recheck_by": "2027-02-20",
       "added_from": "article-sync"
+    },
+    {
+      "id": 90,
+      "topic": "id",
+      "claim_en": "A foreigner applying for a residence permit normally has to apply in person, but high-level and urgently needed specialists, applicants under 16 or over 60, and people unable to move about because of illness may have the application filed on their behalf by the inviting organisation or individual, a relative, or a specialist service agency.",
+      "claim_zh": "外国人申请居留证件一般应由本人办理；属于国家需要的高层次人才和急需紧缺专门人才、未满16周岁或者已满60周岁以及因疾病等原因行动不便的，可以由邀请单位或者个人、申请人的亲属、有关专门服务机构代为申请。",
+      "value": "16 / 60",
+      "unit": "age thresholds for proxy application",
+      "figure": "16 / 60 age thresholds for proxy application",
+      "source": {
+        "name": "Ministry of Commerce — Guide to Working and Living in China for Foreign Business People (2025 Edition) (商务部《外国商务人士在华工作生活指引（2025年版）》)",
+        "url": "https://www.mofcom.gov.cn/api-gateway/jpaas-web-server/front/document/download?fileUrl=YW5UzzlvCwcM%2FNHHX%2FtT6H%2BsvqDmpYxySkDH2bGYPgDiqdyqhvZe8WhnyEcT7hMG0WN%2Fyly5QA9E4UDguI1z07H4rOMQMfesO3KFWNWrYcCf41p8teUbwFbAGdyNqnMrPKPEw135V8uLj52RoHBUMByQMvuYkz9jME3N8jWKZ6I%3D&fileName=%E3%80%8A%E5%A4%96%E5%9B%BD%E5%95%86%E5%8A%A1%E4%BA%BA%E5%A3%AB%E5%9C%A8%E5%8D%8E%E5%B7%A5%E4%BD%9C%E7%94%9F%E6%B4%BB%E6%8C%87%E5%BC%95%EF%BC%882025%E5%B9%B4%E7%89%88%EF%BC%89%E3%80%8B%E4%B8%AD%E6%96%87%E7%89%88.pdf"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2027-02-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 273
+    },
+    {
+      "id": 91,
+      "topic": "transport_stat",
+      "claim_en": "China handled 175.084 billion express-delivery items in 2024, up 21.5% year on year, generating CNY 1.4034 trillion in express revenue.",
+      "claim_zh": "2024年完成快递业务量1750.84亿件，比上年增长21.5%，完成快递业务收入14033.54亿元。",
+      "value": "175.084 bn",
+      "unit": "express items in 2024",
+      "figure": "175.084 bn express items in 2024",
+      "source": {
+        "name": "Ministry of Transport — 2024 Statistical Bulletin on the Development of the Transport Industry (交通运输部《2024年交通运输行业发展统计公报》, via gov.cn)",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2027-05-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 285
+    },
+    {
+      "id": 92,
+      "topic": "transport_stat",
+      "claim_en": "China's ports handled 17.595 billion tonnes of cargo in 2024, up 3.7% year on year, including 332 million twenty-foot equivalent units of containers.",
+      "claim_zh": "2024年全国港口完成货物吞吐量175.95亿吨，比上年增长3.7%，完成集装箱吞吐量3.32亿标准箱。",
+      "value": "17.595 bn t",
+      "unit": "port cargo throughput 2024",
+      "figure": "17.595 bn t port cargo throughput 2024",
+      "source": {
+        "name": "Ministry of Transport — 2024 Statistical Bulletin on the Development of the Transport Industry (交通运输部《2024年交通运输行业发展统计公报》, via gov.cn)",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2027-05-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 286
+    },
+    {
+      "id": 93,
+      "topic": "transport_stat",
+      "claim_en": "China's domestic routes carried 665 million passengers in 2024, up 12.6% year on year; routes to Hong Kong, Macao and Taiwan carried 9.5808 million passengers, up 43.3%.",
+      "claim_zh": "2024年国内航线完成客运量6.65亿人次、增长12.6%，其中港澳台地区航线完成958.08万人次、增长43.3%。",
+      "value": "9.5808 M",
+      "unit": "HK/Macao/Taiwan routes 2024",
+      "figure": "9.5808 M HK/Macao/Taiwan routes 2024",
+      "source": {
+        "name": "Ministry of Transport — 2024 Statistical Bulletin on the Development of the Transport Industry (交通运输部《2024年交通运输行业发展统计公报》, via gov.cn)",
+        "url": "https://www.gov.cn/lianbo/bumen/202506/content_7027415.htm"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2027-05-22",
+      "added_from": "db-backfill",
+      "db_fact_id": 287
     }
   ]
 }
