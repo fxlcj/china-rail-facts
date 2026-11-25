@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "version": "2026.11",
-  "updated": "2026-11-24",
+  "updated": "2026-11-26",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 94,
+  "count": 103,
   "facts": [
     {
       "id": 1,
@@ -1472,6 +1472,159 @@
       "recheck_by": "2027-02-24",
       "added_from": "db-backfill",
       "db_fact_id": 18
+    },
+    {
+      "id": 95,
+      "topic": "waitlist",
+      "claim_en": "A waitlist order can cover up to 3 travel dates and 60 trains in total",
+      "claim_zh": "一个候补订单最多可选择3个乘车日期，总计添加不超过60个车次",
+      "value": "3 / 60",
+      "unit": "dates / trains per order",
+      "figure": "3 / 60 dates / trains per order",
+      "source": {
+        "name": "中国铁路12306官网·候补购票规则",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/houbuRules/houbuRules.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 317
+    },
+    {
+      "id": 96,
+      "topic": "waitlist",
+      "claim_en": "A waitlist order can include up to 19 passengers",
+      "claim_zh": "一个候补订单最多可添加19名乘车人",
+      "value": "19",
+      "unit": "passengers per order",
+      "figure": "19 passengers per order",
+      "source": {
+        "name": "中国铁路12306官网·候补购票规则",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/houbuRules/houbuRules.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 318
+    },
+    {
+      "id": 97,
+      "topic": "waitlist",
+      "claim_en": "A waitlist order can be capped no later than 20 minutes before departure; matching runs 24 hours a day",
+      "claim_zh": "候补订单截止兑现时间不晚于开车前20分钟；系统全天24小时持续兑现",
+      "value": "20",
+      "unit": "minutes before departure",
+      "figure": "20 minutes before departure",
+      "source": {
+        "name": "中国铁路12306官网·候补购票规则",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/houbuRules/houbuRules.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 319
+    },
+    {
+      "id": 98,
+      "topic": "booking",
+      "claim_en": "A reimbursement receipt can be collected within 30 days after travel at any station self-service machine or ticket window",
+      "claim_zh": "报销凭证可在乘车后30日内在任意车站自动售（取）设备或售票窗口换取",
+      "value": "30",
+      "unit": "days after travel",
+      "figure": "30 days after travel",
+      "source": {
+        "name": "12306官网·乘车须知",
+        "url": "https://12306.cn/g"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 327
+    },
+    {
+      "id": 99,
+      "topic": "booking",
+      "claim_en": "From 1 December 2026 a buyer can issue an electronic invoice online for other passengers on the same booking, within 180 days of travel, refund or change",
+      "claim_zh": "自2026年12月1日起，购票人在行程结束或退票、改签办理之日起180日内，可为其他乘车人线上开具电子发票",
+      "value": "180",
+      "unit": "days to issue invoice",
+      "figure": "180 days to issue invoice",
+      "source": {
+        "name": "中国经济网（转铁路12306公告）",
+        "url": "https://www.ce.cn/xwzx/gnsz/gdxw/202611/t20261125_3306164.shtml"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 328
+    },
+    {
+      "id": 100,
+      "topic": "change",
+      "claim_en": "Each ticket can be changed once; changing the destination station must be done more than 48 hours before departure",
+      "claim_zh": "一张车票可办理一次改签；办理变更到站的改签应在开车前48小时以上",
+      "value": "48",
+      "unit": "hours before departure",
+      "figure": "48 hours before departure",
+      "source": {
+        "name": "央视网（转中国铁路公众号）",
+        "url": "https://news.cctv.com/2026/03/06/ARTIX2YZ2WsPzWPECKU7hWt4260306.shtml"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-02-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 329
+    },
+    {
+      "id": 101,
+      "topic": "change",
+      "claim_en": "A change to another train on the same travel date before 24:00 on the day of departure is free; changing to a train on the next day or later after departure costs 40% of the lower of the two fares.",
+      "claim_zh": "开车后在当日24时之前改签当日其他列车不收改签费；改签次日及以后列车按改签前后低票价车票票面价格的40%计收改签费。",
+      "value": "0% same day / 40% next day+",
+      "unit": "fee rate",
+      "figure": "0% same day / 40% next day+ fee rate",
+      "source": {
+        "name": "中国铁路12306官网·铁路旅客购票须知（移动版 buyTicketsInstruction.html）",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 343
+    },
+    {
+      "id": 102,
+      "topic": "change",
+      "claim_en": "Changing 24-48 hours before departure to a train on a later date costs 5% of the lower fare; changing less than 24 hours before departure to a later date costs 15%.",
+      "claim_zh": "开车前24小时以上不足48小时改签票面乘车日期之后的列车，按低票价5%计；开车前不足24小时改签之后的列车，按低票价15%计。",
+      "value": "5% / 15%",
+      "unit": "fee rate",
+      "figure": "5% / 15% fee rate",
+      "source": {
+        "name": "中国铁路12306官网·铁路旅客购票须知（移动版 buyTicketsInstruction.html）",
+        "url": "https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "2027-05-25",
+      "added_from": "db-backfill",
+      "db_fact_id": 344
+    },
+    {
+      "id": 103,
+      "topic": "student",
+      "claim_en": "If a student buys a concession ticket without completing or passing the concession-card eligibility check, the train first collects the fare difference and issues a record. At the destination the passenger can, within 30 days, bring the on-board supplementary ticket, student card and the ID used to buy the ticket to a station window for the eligibility check and refund. Once the station confirms the concession ticket was valid, it deducts one trip from the card and refunds the supplementary fare with no refund fee.",
+      "claim_zh": "未办理或未通过优惠资质核验购买学生优惠票乘车时，列车先补收票价差额并开具客运记录；旅客到站后可在30日以内，凭车补车票、学生证和购票时所用有效身份证件到车站窗口办理资质核验和退票手续。车站核实学生优惠票符合规定后，为其办理资质核验、扣减火车票学生优惠卡次数，退还车补车票票款，不收退票费。",
+      "value": "30 days to refund at station, no refund fee",
+      "unit": "refund window / fee waiver",
+      "figure": "30 days to refund at station, no refund fee refund window / fee waiver",
+      "source": {
+        "name": "中国国家铁路集团有限公司·铁路旅客运输规程（12306 官网）",
+        "url": "https://kyfw.12306.cn/otn/gonggao/saleTicketMeans.html?linktypeid=means2"
+      },
+      "checked_on": "2026-11-25",
+      "recheck_by": "",
+      "added_from": "db-backfill",
+      "db_fact_id": 348
     }
   ]
 }
