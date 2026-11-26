@@ -4,7 +4,7 @@ A reference for the China railway rules that foreign travelers most often get wr
 
 Every figure below carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 89 entries, machine-readable
+- `facts.json` — the same 106 entries, machine-readable
 - The human-readable version, with worked examples: <https://jiunotes.top/china-train-rules-fees-cheatsheet>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -125,6 +125,9 @@ The rules themselves are not secret — China Railway and the government portals
 | 101 | `change` | A change to another train on the same travel date before 24:00 on the day of departure is free; changing to a train on the next day or later after departure costs 40% of the lower of the two fares. | 0% same day / 40% next day+ fee rate | [中国铁路12306官网·铁路旅客购票须知（移动版 buyTicketsInstruction.html）](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html) | 2026-11-25 |
 | 102 | `change` | Changing 24-48 hours before departure to a train on a later date costs 5% of the lower fare; changing less than 24 hours before departure to a later date costs 15%. | 5% / 15% fee rate | [中国铁路12306官网·铁路旅客购票须知（移动版 buyTicketsInstruction.html）](https://mobile.12306.cn/otsmobile/h5/otsbussiness/info/buyTicketsInstruction.html) | 2026-11-25 |
 | 103 | `student` | If a student buys a concession ticket without completing or passing the concession-card eligibility check, the train first collects the fare difference and issues a record. At the destination the passenger can, within 30 days, bring the on-board supplementary ticket, student card and the ID used to buy the ticket to a station window for the eligibility check and refund. Once the station confirms the concession ticket was valid, it deducts one trip from the card and refunds the supplementary fare with no refund fee. | 30 days to refund at station, no refund fee refund window / fee waiver | [中国国家铁路集团有限公司·铁路旅客运输规程（12306 官网）](https://kyfw.12306.cn/otn/gonggao/saleTicketMeans.html?linktypeid=means2) | 2026-11-25 |
+| 104 | `refund` | Shanghai government (English) — rail travel and recovery guidance; 12306 — ticket change and refund notice. | 12306 | [english.shanghai.gov.cn](https://english.shanghai.gov.cn/en-Transportation/20250126/72f8a53afc05418d8478633ede94260f.html) | 2026-11-26 |
+| 105 | `refund` | When no direct train fits, 12306 sells a one-change journey — two trains, two boarding events — and one rule decides who pays when it fails: if a late first train or a suspended leg is the railway’s fault, the 12306 transfer notice says the refund carries no fee; if you miss the connection yourself, you do. | 12306 | [kyfw.12306.cn](https://kyfw.12306.cn/otn/gonggao/chooseSeat_transferConnection.html) | 2026-11-26 |
+| 106 | `id` | The station must log it and publish it on 12306 or in the station, then release it against a valid identity document and your signature. | 12306 | [kyfw.12306.cn](https://kyfw.12306.cn/otn/gonggao/saleTicketMeans.html) | 2026-11-26 |
 ## Notes on the trickier rules
 
 ### Ticket release window and purchase channels
