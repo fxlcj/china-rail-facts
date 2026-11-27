@@ -4,7 +4,7 @@ A reference for the China railway rules that foreign travelers most often get wr
 
 Every figure below carries **the official Chinese source that states it** and **the date it was last checked**. If you copy a number anywhere, copy the check date with it — that is what makes the number verifiable at all.
 
-- `facts.json` — the same 106 entries, machine-readable
+- `facts.json` — the same 107 entries, machine-readable
 - The human-readable version, with worked examples: <https://jiunotes.top/china-train-rules-fees-cheatsheet>
 - How entries are kept current: see [Maintenance](#maintenance)
 
@@ -128,6 +128,7 @@ The rules themselves are not secret — China Railway and the government portals
 | 104 | `refund` | Shanghai government (English) — rail travel and recovery guidance; 12306 — ticket change and refund notice. | 12306 | [english.shanghai.gov.cn](https://english.shanghai.gov.cn/en-Transportation/20250126/72f8a53afc05418d8478633ede94260f.html) | 2026-11-26 |
 | 105 | `refund` | When no direct train fits, 12306 sells a one-change journey — two trains, two boarding events — and one rule decides who pays when it fails: if a late first train or a suspended leg is the railway’s fault, the 12306 transfer notice says the refund carries no fee; if you miss the connection yourself, you do. | 12306 | [kyfw.12306.cn](https://kyfw.12306.cn/otn/gonggao/chooseSeat_transferConnection.html) | 2026-11-26 |
 | 106 | `id` | The station must log it and publish it on 12306 or in the station, then release it against a valid identity document and your signature. | 12306 | [kyfw.12306.cn](https://kyfw.12306.cn/otn/gonggao/saleTicketMeans.html) | 2026-11-26 |
+| 107 | `booking` | Stage Key rule Official source Presale 15 days before departure, sale day counts as day one; cross-border trains on the same window 12306 purchase notice Documents English site: valid foreign passports only. | 15 days | [www.12306.cn](https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html) | 2026-11-27 |
 ## Notes on the trickier rules
 
 ### Ticket release window and purchase channels
