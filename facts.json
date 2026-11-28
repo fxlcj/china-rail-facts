@@ -3,11 +3,11 @@
   "publisher": "Jiu's Sharing Station (jiunotes.top)",
   "homepage": "https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "version": "2026.11",
-  "updated": "2026-11-27",
+  "updated": "2026-11-28",
   "license": "CC BY 4.0",
   "citation": "Jiu's Sharing Station, \"China Train Rules & Fees Cheat Sheet\", checked 2026-11-05, https://jiunotes.top/china-train-rules-fees-cheatsheet",
   "note": "Every entry carries the official Chinese source that states it and the date it was last checked. Rules change without announcement; compare checked_on against your travel date.",
-  "count": 107,
+  "count": 111,
   "facts": [
     {
       "id": 1,
@@ -1689,6 +1689,74 @@
       "checked_on": "2026-11-27",
       "recheck_by": "2027-02-25",
       "added_from": "article-sync"
+    },
+    {
+      "id": 108,
+      "topic": "student",
+      "claim_en": "Students get 4 discounted one-way trips per academic year (1 October - 30 September), usable at any time. On conventional trains the hard-seat fare is 50% of the published fare; on EMU trains the student fare is 75% of the execution fare with a floor at 40% of the published fare (from 6 September 2025).",
+      "claim_zh": "学生优惠票：每学年（10月1日至次年9月30日）4次单程，可随时使用；普速硬座按公布票价 50% 计算；动车组按执行票价 75%、且不低于公布票价 4 折计算（2025年9月6日起）。",
+      "value": "4 trips; 50% hard seat / 75% execution fare (floor 40%)",
+      "unit": "trips/academic year",
+      "figure": "4 trips; 50% hard seat / 75% execution fare (floor 40%) trips/academic year",
+      "source": {
+        "name": "China Railway 12306 — optimized student ticket concessions, effective 6 September 2025 (铁路12306官方公告，2025-08-15)",
+        "url": "https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html"
+      },
+      "checked_on": "2026-11-05",
+      "recheck_by": "2028-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 5
+    },
+    {
+      "id": 109,
+      "topic": "student",
+      "claim_en": "Student concession tickets now cover conventional-train hard seat and hard sleeper and EMU second class, first class and EMU sleeper classes (expanded from second class only on 6 September 2025).",
+      "claim_zh": "学生优惠票适用席别（2025年9月6日起）：普速列车硬座、硬卧；动车组列车二等座、一等座、多功能座及动车组卧铺各席别（由原「仅限二等座」扩大）。",
+      "value": "hard seat / hard sleeper / 2nd / 1st / EMU sleeper",
+      "unit": "eligible student ticket classes",
+      "figure": "hard seat / hard sleeper / 2nd / 1st / EMU sleeper eligible student ticket classes",
+      "source": {
+        "name": "China Railway 12306 — optimized student ticket concessions, effective 6 September 2025 (铁路12306官方公告，2025-08-15)",
+        "url": "https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html"
+      },
+      "checked_on": "2026-11-22",
+      "recheck_by": "2028-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 301
+    },
+    {
+      "id": 110,
+      "topic": "student",
+      "claim_en": "Since 6 September 2025, China Rail student concession tickets are priced at 75% of the actual execution fare (not 75% of the published fare), with a floor at 40% of the published fare. If the execution fare is below 40% of the published fare, the student may buy an ordinary ticket at that execution fare.",
+      "claim_zh": "自 2025 年 9 月 6 日起，动车组学生优惠票计价规则由「公布票价的 7.5 折」改为「执行票价的 7.5 折，且不低于公布票价 4 折」；若执行票价低于公布票价 4 折，学生可按普通旅客身份以实际执行票价购票。此为折上折：如二等座执行票价为公布票价 8 折，学生票再打 7.5 折，相当于公布票价 6 折。",
+      "value": "75% of execution fare, floor 40% of published fare",
+      "unit": "student fare rule",
+      "figure": "75% of execution fare, floor 40% of published fare student fare rule",
+      "source": {
+        "name": "China Railway 12306 — Further optimized student ticket concessions, effective 6 September 2025 (铁路12306官方公告，2025-08-15)",
+        "url": "https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html"
+      },
+      "checked_on": "2026-11-27",
+      "recheck_by": "2028-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 405
+    },
+    {
+      "id": 111,
+      "topic": "student",
+      "claim_en": "Since 6 September 2025 student concession tickets also cover first class and EMU sleeper classes, not only second class; conventional-train hard seat and hard sleeper remain covered. Four one-way concession trips per academic year (1 October - 30 September) may be used at any time, not only during school holidays, and the concession area can be adjusted to a verified school location and a flexible home residence.",
+      "claim_zh": "自 2025 年 9 月 6 日起，动车组学生优惠票适用席别由「仅限二等座」扩大至二等座、一等座和动车组卧铺各席别；普速列车仍为硬座、硬卧。每学年（10 月 1 日至次年 9 月 30 日）4 次单程优惠票可随时使用，不再限于寒暑假；优惠区间可按学信网院校所在地与实际家庭居住地灵活调整。",
+      "value": "4 trips; first class + sleepers included",
+      "unit": "student concession scope",
+      "figure": "4 trips; first class + sleepers included student concession scope",
+      "source": {
+        "name": "China Railway 12306 — Further optimized student ticket concessions, effective 6 September 2025 (铁路12306官方公告，2025-08-15)",
+        "url": "https://www.12306.cn/mormhweb/zxdt/202508/t20250815_44642.html"
+      },
+      "checked_on": "2026-11-27",
+      "recheck_by": "2028-11-27",
+      "added_from": "db-backfill",
+      "db_fact_id": 406
     }
   ]
 }
